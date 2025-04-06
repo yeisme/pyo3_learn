@@ -1,4 +1,3 @@
-import pyo3_learn
+import calculator
 
-print(pyo3_learn.sum_as_string(1, 2))
-print(pyo3_learn.__doc__)
+print(calculator.__all__)
